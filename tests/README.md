@@ -1,0 +1,1 @@
+https://github.com/junstar92/hangul-syllable-recognition
